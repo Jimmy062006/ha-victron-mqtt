@@ -103,6 +103,39 @@
       "grid_energy_reverse": {
         "name": "Grid feed-in"
       },
+      "acload_voltage_phase": {
+        "name": "ACLoad voltage on {phase}"
+      },
+      "acload_current_phase": {
+        "name": "ACLoad current on {phase}"
+      },
+      "acload_power_phase": {
+        "name": "ACLoad power on {phase}"
+      },
+      "acload_energy_forward_phase": {
+        "name": "ACLoad consumption on {phase}"
+      },
+      "acload_energy_reverse_phase": {
+        "name": "ACLoad feed-in on {phase}"
+      },
+      "acload_voltage_phase_next_phase": {
+        "name": "ACLoad voltage {phase} to {next_phase}"
+      },
+      "acload_voltage_pen": {
+        "name": "ACLoad voltage on PEN"
+      },
+      "acload_current_n": {
+        "name": "ACLoad current on N"
+      },
+      "acload_frequency": {
+        "name": "ACLoad frequency"
+      },
+      "acload_energy_forward": {
+        "name": "ACLoad consumption"
+      },
+      "acload_energy_reverse": {
+        "name": "ACLoad feed-in"
+      },
       "solarcharger_dc_voltage": {
         "name": "DC (Batt) Bus voltage"
       },
